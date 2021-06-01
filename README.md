@@ -15,14 +15,42 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Lohhans' GitHub stats](https://github-readme-stats.vercel.app/api?username=lohhans&show_icons=true&count_private=true&theme=dark)](https://github.com/lohhans/github-readme-stats)
+### 🎧 Spotify Playing
 
-[![Top Langs](https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=lohhans&layout=compact&hide=Tex,VHDL&theme=dark)](https://github.com/lohhans/github-readme-stats)
+[<img src="https://spotify-now-playing-lohhans.vercel.app/api/spotify" alt="lohhans Spotify Playing" width="350" />](https://open.spotify.com/user/12148950715)
 
 
-[![lohhans's wakatime stats](https://github-readme-stats-lohhans.vercel.app/api/wakatime?username=lohhans&theme=dark)](https://github.com/lohhans/github-readme-stats)
 
-### Recent Activity
+
+### 👨🏻‍💻 Stats
+
+<!-- Stats / Spacer Horizontal / Most Used Langs -->
+
+<!-- [x][ ][ ] -->
+<a href="https://github.com/lohhans/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lohhans&show_icons=true&count_private=true&theme=dark" width="400" />
+</a>
+<!-- [ ][x][ ] -->
+<a href="https://github.com/lohhans/github-readme-stats">
+  <img onclick="https://github.com/lohhans/" align="center" src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="50" />
+</a>
+<!-- [ ][ ][x] -->
+<a href="https://github.com/lohhans/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=lohhans&layout=compact&hide=Tex,VHDL&theme=dark" height="158" />
+</a>
+
+<!-- Spacer Vertical / Nothing / Wakatime -->
+<img onclick="https://github.com/lohhans/" align="center" src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="40" />
+
+<!-- [ ][ ][ ] -->
+<a href="https://github.com/lohhans/github-readme-stats"></a>
+
+<!-- [x][ ][ ] -->
+<a href="https://github.com/lohhans/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/wakatime?username=lohhans&theme=dark" height="158" />
+</a>
+
+### 📑 Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
