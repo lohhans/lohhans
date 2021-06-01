@@ -1,23 +1,25 @@
-### Hi there, I'm Armstrong Lohãns - aka _lohhans_ 👋🏻
+### Hi there, I'm Armstrong Lohãns - aka _lohhans_ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="mailto:lohansdemelo1108@gmail.com">
+  <img align="left" alt="Armstrong Lohãns | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a>
+<a href="https://www.linkedin.com/in/lohhans/">
+  <img align="left" alt="Armstrong Lohãns | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/lohhans">
+  <img align="left" alt="Armstrong Lohãns | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
+</a>
+<a href="https://open.spotify.com/user/12148950715">
+  <img align="left" alt="Armstrong Lohãns | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lohhans&label=Profile%20views&color=0eb45e&style=flat" alt="lohhans" /> </p>
+
 
 ### 🧔🏻 I'm a Student and Developer
 
 - 🔭 I’m currently working on [Suche](https://github.com/UFAPE-Projetao20201/)
 - 🌱 I’m currently learning **Flutter**, **Node.js** and **Javascript**
-- 💬 Ask me about anything [here][gmail]
-
-
-### 📲 Connect with me
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" fill="#EA4335"/>][gmail]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<a href="https://github.com/lohhans/github-readme-stats">
-  <img onclick="https://github.com/lohhans/" align="center" src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="40" />
-</a>
+- 💬 Ask me about anything [here][telegram]
 
 
 ### 🎧 Spotify Playing
