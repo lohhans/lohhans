@@ -69,7 +69,7 @@
 
 
 <!-- Trophies -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lohhans&theme=juicyfresh&row=1&no-bg=true" width="930" alt="lohhans" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lohhans&theme=juicyfresh&row=1&no-bg=true&margin-w=15" width="900" alt="lohhans" /></a> </p>
 
 
 ### 📑 Recent Activity
