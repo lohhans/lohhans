@@ -11,11 +11,10 @@
 <a href="https://open.spotify.com/user/12148950715">
   <img align="left" alt="Armstrong Lohãns | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<p align="left"> 
-  <img src="https://img.shields.io/github/followers/lohhans?label=follow&style=social" alt="https://github.com/lohhans" />
-  <b>ㅤ</b>
-  <img src="https://komarev.com/ghpvc/?username=lohhans&label=Profile%20views&color=0eb45e&style=flat" alt="lohhans" /> 
-</p>
+
+[![GitHub lohhans](https://img.shields.io/github/followers/lohhans?label=follow&style=social)](https://github.com/lohhans)
+<sub>ㅤ</sub>
+[![GitHub lohhans](https://komarev.com/ghpvc/?username=lohhans&label=Profile%20views&color=0eb45e&style=flat)](https://github.com/lohhans)
 
 ### 🧔🏻 I'm a Student and Developer
 
