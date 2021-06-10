@@ -76,7 +76,7 @@
 </a>
 <!-- [ ][ ][x] -->
 <a href="https://github.com/lohhans/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lohhans&theme=dark" alt="lohhans" height="158"/>
+  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/wakatime?username=lohhans&theme=dark&layout=compact" height="158" />
 </a>
 
 
@@ -87,7 +87,7 @@
 <!-- Most Used Langs / Spacer / Wakatime -->
 <!-- [x][ ][ ] -->
 <a href="https://github.com/lohhans/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=lohhans&layout=compact&hide=Tex,VHDL&theme=dark" height="150" />
+  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=lohhans&layout=compact&hide=Tex,VHDL&theme=dark" height="158" />
 </a>
 <!-- [ ][x][ ] -->
 <a href="https://github.com/lohhans/github-readme-stats">
@@ -95,8 +95,9 @@
 </a>
 <!-- [][ ][x] -->
 <a href="https://github.com/lohhans/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/wakatime?username=lohhans&theme=dark&layout=compact" height="150" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lohhans&theme=dark" alt="lohhans" height="158"/>
 </a>
+
 
 
 <!-- Vertical Spacer -->
