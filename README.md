@@ -95,7 +95,7 @@
 </a>
 <!-- [][ ][x] -->
 <a href="https://github.com/lohhans/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/wakatime?username=lohhans&theme=dark" height="150" />
+  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/wakatime?username=lohhans&theme=dark&layout=compact" height="150" />
 </a>
 
 
