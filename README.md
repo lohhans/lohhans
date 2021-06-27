@@ -75,7 +75,7 @@
   <img onclick="https://github.com/lohhans/" align="center" src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="5" />
 </a>
 <!-- [ ][ ][x] -->
-<a href="https://github.com/lohhans/github-readme-stats">
+<a href="http://wakatime.com/lohhans">
   <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/wakatime?username=lohhans&theme=dark&layout=compact&custom_title=Armstrong Lohãns' Wakatime for last 7 days" height="148" />
 </a>
 
