@@ -111,11 +111,11 @@
 ### 📑 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/UFAPE-Projetao20201/suche_app/issues/42) in [UFAPE-Projetao20201/suche_app](https://github.com/UFAPE-Projetao20201/suche_app)
-2. 💪 Opened PR [#42](https://github.com/UFAPE-Projetao20201/suche_app/pull/42) in [UFAPE-Projetao20201/suche_app](https://github.com/UFAPE-Projetao20201/suche_app)
-3. 🎉 Merged PR [#39](https://github.com/UFAPE-Projetao20201/suche_app/pull/39) in [UFAPE-Projetao20201/suche_app](https://github.com/UFAPE-Projetao20201/suche_app)
-4. 💪 Opened PR [#37](https://github.com/UFAPE-Projetao20201/suche_app/pull/37) in [UFAPE-Projetao20201/suche_app](https://github.com/UFAPE-Projetao20201/suche_app)
-5. 💪 Opened PR [#36](https://github.com/UFAPE-Projetao20201/suche_app/pull/36) in [UFAPE-Projetao20201/suche_app](https://github.com/UFAPE-Projetao20201/suche_app)
+1. 🗣 Commented on [#51](https://github.com/UFAPE-Projetao20201/suche_api/issues/51) in [UFAPE-Projetao20201/suche_api](https://github.com/UFAPE-Projetao20201/suche_api)
+2. 💪 Opened PR [#51](https://github.com/UFAPE-Projetao20201/suche_api/pull/51) in [UFAPE-Projetao20201/suche_api](https://github.com/UFAPE-Projetao20201/suche_api)
+3. 🗣 Commented on [#42](https://github.com/UFAPE-Projetao20201/suche_app/issues/42) in [UFAPE-Projetao20201/suche_app](https://github.com/UFAPE-Projetao20201/suche_app)
+4. 💪 Opened PR [#42](https://github.com/UFAPE-Projetao20201/suche_app/pull/42) in [UFAPE-Projetao20201/suche_app](https://github.com/UFAPE-Projetao20201/suche_app)
+5. 🎉 Merged PR [#39](https://github.com/UFAPE-Projetao20201/suche_app/pull/39) in [UFAPE-Projetao20201/suche_app](https://github.com/UFAPE-Projetao20201/suche_app)
 <!--END_SECTION:activity-->
 
 [gmail]: mailto:lohansdemelo1108@gmail.com
