@@ -18,8 +18,9 @@
 
 ### 🧔🏻 I'm a Student and Developer
 
-- 🔭 I’m currently working on [Suche](https://github.com/UFAPE-Projetao20201/)
-- 🌱 I’m currently learning **Flutter**, **Node.js** and **Javascript**
+<!-- - 🔭 I’m currently working on [Suche](https://github.com/UFAPE-Projetao20201/) -->
+<!-- - 🌱 I’m currently learning **Flutter**, **Node.js** and **Javascript** -->
+- 🐦 I’m currently studing **Flutter** and most of my developments are with this framework too
 - 💬 Ask me about anything [here][telegram]
 
 
