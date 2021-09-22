@@ -112,11 +112,11 @@
 ### 📑 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80934](https://github.com/flutter/flutter/issues/80934) in [flutter/flutter](https://github.com/flutter/flutter)
-2. 🗣 Commented on [#63254](https://github.com/flutter/flutter/issues/63254) in [flutter/flutter](https://github.com/flutter/flutter)
-3. 🗣 Commented on [#9471](https://github.com/flutter/flutter/issues/9471) in [flutter/flutter](https://github.com/flutter/flutter)
-4. 🎉 Merged PR [#47](https://github.com/UFAPE-Projetao20201/suche_app/pull/47) in [UFAPE-Projetao20201/suche_app](https://github.com/UFAPE-Projetao20201/suche_app)
-5. 🗣 Commented on [#46](https://github.com/UFAPE-Projetao20201/suche_app/issues/46) in [UFAPE-Projetao20201/suche_app](https://github.com/UFAPE-Projetao20201/suche_app)
+1. 🗣 Commented on [#228](https://github.com/AmolGangadhare/flutter_barcode_scanner/issues/228) in [AmolGangadhare/flutter_barcode_scanner](https://github.com/AmolGangadhare/flutter_barcode_scanner)
+2. 🗣 Commented on [#80934](https://github.com/flutter/flutter/issues/80934) in [flutter/flutter](https://github.com/flutter/flutter)
+3. 🗣 Commented on [#63254](https://github.com/flutter/flutter/issues/63254) in [flutter/flutter](https://github.com/flutter/flutter)
+4. 🗣 Commented on [#9471](https://github.com/flutter/flutter/issues/9471) in [flutter/flutter](https://github.com/flutter/flutter)
+5. 🎉 Merged PR [#47](https://github.com/UFAPE-Projetao20201/suche_app/pull/47) in [UFAPE-Projetao20201/suche_app](https://github.com/UFAPE-Projetao20201/suche_app)
 <!--END_SECTION:activity-->
 
 [gmail]: mailto:lohansdemelo1108@gmail.com
