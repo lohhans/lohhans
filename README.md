@@ -88,7 +88,7 @@
 <!-- Most Used Langs / Spacer / Wakatime -->
 <!-- [x][ ][ ] -->
 <a href="https://github.com/lohhans/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=lohhans&layout=compact&hide=Tex,VHDL&theme=dark&custom_title=Most Used Languages (by code lines)" height="170" />
+  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=lohhans&layout=compact&hide=Tex,VHDL,Jupyter Notebook&theme=dark&custom_title=Most Used Languages (by code lines)" height="170" />
 </a>
 <!-- [ ][x][ ] -->
 <a href="https://github.com/lohhans/github-readme-stats">
