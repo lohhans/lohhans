@@ -77,7 +77,7 @@
 </a>
 <!-- [ ][ ][x] -->
 <a href="http://wakatime.com/lohhans">
-  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/wakatime?username=lohhans&theme=dark&layout=compact&langs_count=8&custom_title=Armstrong Lohãns' Wakatime for last 7 days" width="450" /> <!-- height="148" -->
+  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/wakatime?username=lohhans&theme=dark&layout=compact&langs_count=8&custom_title=Armstrong Lohãns' Wakatime for last 7 days" width="430" /> <!-- height="148" -->
 </a>
 
 
