@@ -69,7 +69,7 @@
 
 <!-- [x][ ][ ] -->
 <a href="https://github.com/lohhans/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lohhans&show_icons=true&count_private=true&theme=dark" width="350" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lohhans&show_icons=true&count_private=true&theme=dark" width="360" />
 </a>
 <!-- [ ][x][ ] -->
 <a href="https://github.com/lohhans/github-readme-stats">
