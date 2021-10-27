@@ -69,7 +69,7 @@
 
 <!-- [x][ ][ ] -->
 <a href="https://github.com/lohhans/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lohhans&show_icons=true&count_private=true&theme=dark" width="380" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lohhans&show_icons=true&count_private=true&theme=dark" width="350" />
 </a>
 <!-- [ ][x][ ] -->
 <a href="https://github.com/lohhans/github-readme-stats">
@@ -77,7 +77,7 @@
 </a>
 <!-- [ ][ ][x] -->
 <a href="http://wakatime.com/lohhans">
-  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/wakatime?username=lohhans&theme=dark&layout=compact&langs_count=8&custom_title=Armstrong Lohãns' Wakatime for last 7 days" width="430" /> <!-- height="148" -->
+  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/wakatime?username=lohhans&theme=dark&layout=compact&langs_count=8&custom_title=Armstrong Lohãns' Wakatime for last 7 days" width="420" /> <!-- height="148" -->
 </a>
 
 
