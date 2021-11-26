@@ -112,9 +112,9 @@
 ### 📑 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#211](https://github.com/AmolGangadhare/flutter_barcode_scanner/issues/211) in [AmolGangadhare/flutter_barcode_scanner](https://github.com/AmolGangadhare/flutter_barcode_scanner)
-2. 🗣 Commented on [#228](https://github.com/AmolGangadhare/flutter_barcode_scanner/issues/228) in [AmolGangadhare/flutter_barcode_scanner](https://github.com/AmolGangadhare/flutter_barcode_scanner)
-3. 🗣 Commented on [#80934](https://github.com/flutter/flutter/issues/80934) in [flutter/flutter](https://github.com/flutter/flutter)
+1. 🎉 Merged PR [#1](https://github.com/lohhans/Inteligencia-Artificial-2020.2/pull/1) in [lohhans/Inteligencia-Artificial-2020.2](https://github.com/lohhans/Inteligencia-Artificial-2020.2)
+2. 🗣 Commented on [#211](https://github.com/AmolGangadhare/flutter_barcode_scanner/issues/211) in [AmolGangadhare/flutter_barcode_scanner](https://github.com/AmolGangadhare/flutter_barcode_scanner)
+3. 🗣 Commented on [#228](https://github.com/AmolGangadhare/flutter_barcode_scanner/issues/228) in [AmolGangadhare/flutter_barcode_scanner](https://github.com/AmolGangadhare/flutter_barcode_scanner)
 4. 🗣 Commented on [#63254](https://github.com/flutter/flutter/issues/63254) in [flutter/flutter](https://github.com/flutter/flutter)
 5. 🗣 Commented on [#9471](https://github.com/flutter/flutter/issues/9471) in [flutter/flutter](https://github.com/flutter/flutter)
 <!--END_SECTION:activity-->
