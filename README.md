@@ -114,11 +114,11 @@
 ### 📑 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/davidmanuelpe/ads/pull/2) in [davidmanuelpe/ads](https://github.com/davidmanuelpe/ads)
-2. 💪 Opened PR [#1](https://github.com/davidmanuelpe/ads/pull/1) in [davidmanuelpe/ads](https://github.com/davidmanuelpe/ads)
-3. 🎉 Merged PR [#2](https://github.com/lohhans/Inteligencia-Artificial-2020.2/pull/2) in [lohhans/Inteligencia-Artificial-2020.2](https://github.com/lohhans/Inteligencia-Artificial-2020.2)
-4. 🎉 Merged PR [#1](https://github.com/lohhans/Inteligencia-Artificial-2020.2/pull/1) in [lohhans/Inteligencia-Artificial-2020.2](https://github.com/lohhans/Inteligencia-Artificial-2020.2)
-5. 🗣 Commented on [#211](https://github.com/AmolGangadhare/flutter_barcode_scanner/issues/211) in [AmolGangadhare/flutter_barcode_scanner](https://github.com/AmolGangadhare/flutter_barcode_scanner)
+1. 💪 Opened PR [#7](https://github.com/davidmanuelpe/ads/pull/7) in [davidmanuelpe/ads](https://github.com/davidmanuelpe/ads)
+2. 💪 Opened PR [#2](https://github.com/davidmanuelpe/ads/pull/2) in [davidmanuelpe/ads](https://github.com/davidmanuelpe/ads)
+3. 💪 Opened PR [#1](https://github.com/davidmanuelpe/ads/pull/1) in [davidmanuelpe/ads](https://github.com/davidmanuelpe/ads)
+4. 🎉 Merged PR [#2](https://github.com/lohhans/Inteligencia-Artificial-2020.2/pull/2) in [lohhans/Inteligencia-Artificial-2020.2](https://github.com/lohhans/Inteligencia-Artificial-2020.2)
+5. 🎉 Merged PR [#1](https://github.com/lohhans/Inteligencia-Artificial-2020.2/pull/1) in [lohhans/Inteligencia-Artificial-2020.2](https://github.com/lohhans/Inteligencia-Artificial-2020.2)
 <!--END_SECTION:activity-->
 
 [gmail]: mailto:lohansdemelo1108@gmail.com
