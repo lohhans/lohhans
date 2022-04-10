@@ -114,7 +114,7 @@
 ### 📑 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/davidmanuelpe/ads/pull/7) in [davidmanuelpe/ads](https://github.com/davidmanuelpe/ads)
+1. 🗣 Commented on [#2855](https://github.com/microsoft/WSL/issues/2855) in [microsoft/WSL](https://github.com/microsoft/WSL)
 2. 💪 Opened PR [#2](https://github.com/davidmanuelpe/ads/pull/2) in [davidmanuelpe/ads](https://github.com/davidmanuelpe/ads)
 3. 💪 Opened PR [#1](https://github.com/davidmanuelpe/ads/pull/1) in [davidmanuelpe/ads](https://github.com/davidmanuelpe/ads)
 4. 🎉 Merged PR [#2](https://github.com/lohhans/Inteligencia-Artificial-2020.2/pull/2) in [lohhans/Inteligencia-Artificial-2020.2](https://github.com/lohhans/Inteligencia-Artificial-2020.2)
