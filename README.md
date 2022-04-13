@@ -15,6 +15,8 @@
 [![GitHub lohhans](https://img.shields.io/github/followers/lohhans?label=follow&style=social)](https://github.com/lohhans)
 <sub>ㅤ</sub>
 [![GitHub lohhans](https://komarev.com/ghpvc/?username=lohhans&label=Profile%20views&color=0eb45e&style=flat)](https://github.com/lohhans)
+<sub>ㅤ</sub>
+[![wakatime](https://wakatime.com/badge/user/28b1095a-8445-41d9-8a3e-70e15b895f80.svg)](https://wakatime.com/@28b1095a-8445-41d9-8a3e-70e15b895f80)
 
 ### 🧔🏻 I'm a Student and Developer
 
