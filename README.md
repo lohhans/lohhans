@@ -116,11 +116,11 @@
 ### 📑 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#164](https://github.com/py-mine/mcstatus/issues/164) in [py-mine/mcstatus](https://github.com/py-mine/mcstatus)
-2. 🗣 Commented on [#72](https://github.com/Dinnerbone/mcstatus/issues/72) in [Dinnerbone/mcstatus](https://github.com/Dinnerbone/mcstatus)
-3. 🗣 Commented on [#2855](https://github.com/microsoft/WSL/issues/2855) in [microsoft/WSL](https://github.com/microsoft/WSL)
-4. 🎉 Merged PR [#2](https://github.com/lohhans/Inteligencia-Artificial-2020.2/pull/2) in [lohhans/Inteligencia-Artificial-2020.2](https://github.com/lohhans/Inteligencia-Artificial-2020.2)
-5. 🎉 Merged PR [#1](https://github.com/lohhans/Inteligencia-Artificial-2020.2/pull/1) in [lohhans/Inteligencia-Artificial-2020.2](https://github.com/lohhans/Inteligencia-Artificial-2020.2)
+1. 🎉 Merged PR [#2](https://github.com/bcccoworkingufape/enzitech_app/pull/2) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+2. 💪 Opened PR [#2](https://github.com/bcccoworkingufape/enzitech_app/pull/2) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+3. 🗣 Commented on [#164](https://github.com/py-mine/mcstatus/issues/164) in [py-mine/mcstatus](https://github.com/py-mine/mcstatus)
+4. 🗣 Commented on [#72](https://github.com/Dinnerbone/mcstatus/issues/72) in [Dinnerbone/mcstatus](https://github.com/Dinnerbone/mcstatus)
+5. 🗣 Commented on [#2855](https://github.com/microsoft/WSL/issues/2855) in [microsoft/WSL](https://github.com/microsoft/WSL)
 <!--END_SECTION:activity-->
 
 [gmail]: mailto:lohansdemelo1108@gmail.com
