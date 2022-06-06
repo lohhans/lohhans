@@ -116,11 +116,11 @@
 ### 📑 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/bcccoworkingufape/enzitech_app/issues/3) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-2. ❗️ Opened issue [#3](https://github.com/bcccoworkingufape/enzitech_app/issues/3) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-3. 🎉 Merged PR [#2](https://github.com/bcccoworkingufape/enzitech_app/pull/2) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-4. 💪 Opened PR [#2](https://github.com/bcccoworkingufape/enzitech_app/pull/2) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-5. 🗣 Commented on [#164](https://github.com/py-mine/mcstatus/issues/164) in [py-mine/mcstatus](https://github.com/py-mine/mcstatus)
+1. ❗️ Opened issue [#6](https://github.com/bcccoworkingufape/enzitech_app/issues/6) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+2. ❗️ Opened issue [#5](https://github.com/bcccoworkingufape/enzitech_app/issues/5) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+3. ❗️ Opened issue [#4](https://github.com/bcccoworkingufape/enzitech_app/issues/4) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+4. 🗣 Commented on [#3](https://github.com/bcccoworkingufape/enzitech_app/issues/3) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+5. ❗️ Opened issue [#3](https://github.com/bcccoworkingufape/enzitech_app/issues/3) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
 <!--END_SECTION:activity-->
 
 [gmail]: mailto:lohansdemelo1108@gmail.com
