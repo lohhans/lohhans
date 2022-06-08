@@ -116,11 +116,11 @@
 ### 📑 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#204](https://github.com/EdsonBueno/infinite_scroll_pagination/issues/204) in [EdsonBueno/infinite_scroll_pagination](https://github.com/EdsonBueno/infinite_scroll_pagination)
-2. 🎉 Merged PR [#30](https://github.com/bcccoworkingufape/enzitech_app/pull/30) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-3. 💪 Opened PR [#30](https://github.com/bcccoworkingufape/enzitech_app/pull/30) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-4. 💪 Opened PR [#28](https://github.com/bcccoworkingufape/enzitech_app/pull/28) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-5. 🎉 Merged PR [#27](https://github.com/bcccoworkingufape/enzitech_app/pull/27) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+1. ❗️ Closed issue [#24](https://github.com/bcccoworkingufape/enzitech_app/issues/24) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+2. 🎉 Merged PR [#31](https://github.com/bcccoworkingufape/enzitech_app/pull/31) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+3. 💪 Opened PR [#31](https://github.com/bcccoworkingufape/enzitech_app/pull/31) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+4. 🗣 Commented on [#204](https://github.com/EdsonBueno/infinite_scroll_pagination/issues/204) in [EdsonBueno/infinite_scroll_pagination](https://github.com/EdsonBueno/infinite_scroll_pagination)
+5. 🎉 Merged PR [#30](https://github.com/bcccoworkingufape/enzitech_app/pull/30) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
 <!--END_SECTION:activity-->
 
 [gmail]: mailto:lohansdemelo1108@gmail.com
