@@ -116,11 +116,11 @@
 ### 📑 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/bcccoworkingufape/enzitech_app/pull/46) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-2. 💪 Opened PR [#46](https://github.com/bcccoworkingufape/enzitech_app/pull/46) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-3. 🗣 Commented on [#14](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh/issues/14) in [aagarwal1012/Liquid-Pull-To-Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh)
-4. 🎉 Merged PR [#45](https://github.com/bcccoworkingufape/enzitech_app/pull/45) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-5. 🎉 Merged PR [#43](https://github.com/bcccoworkingufape/enzitech_app/pull/43) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+1. 🗣 Commented on [#49](https://github.com/bcccoworkingufape/enzitech_app/issues/49) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+2. 🎉 Merged PR [#46](https://github.com/bcccoworkingufape/enzitech_app/pull/46) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+3. 💪 Opened PR [#46](https://github.com/bcccoworkingufape/enzitech_app/pull/46) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+4. 🗣 Commented on [#14](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh/issues/14) in [aagarwal1012/Liquid-Pull-To-Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh)
+5. 🎉 Merged PR [#45](https://github.com/bcccoworkingufape/enzitech_app/pull/45) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
 <!--END_SECTION:activity-->
 
 [gmail]: mailto:lohansdemelo1108@gmail.com
