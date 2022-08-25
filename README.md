@@ -20,9 +20,9 @@
 
 ### 🧔🏻 I'm a Student and Developer
 
-<!-- - 🔭 I’m currently working on [Suche](https://github.com/UFAPE-Projetao20201/) -->
 <!-- - 🌱 I’m currently learning **Flutter**, **Node.js** and **Javascript** -->
-- 🐦 I’m currently studing **Flutter** and most of my developments are with this framework too
+- 🔭 I’m currently working on [Enzitech](https://github.com/bcccoworkingufape/enzitech_app)
+- 🐦 I’m currently studing **Dart** and **Flutter**, and most of my developments are with this language and framework too
 - 💬 Ask me about anything [here][telegram]
 
 
