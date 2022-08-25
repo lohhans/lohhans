@@ -67,7 +67,7 @@
 
 ### 👨🏻‍💻 GitHub Stats
 
-<!-- Stats / Spacer Horizontal / Wakatime -->
+<!-- Stats / Spacer Horizontal / Wakatime (Wakapi) -->
 
 <!-- [x][ ][ ] -->
 <a href="https://github.com/lohhans/github-readme-stats">
@@ -79,7 +79,7 @@
 </a>
 <!-- [ ][ ][x] -->
 <a href="http://wakatime.com/lohhans">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lohhans&theme=dark&layout=compact&langs_count=8&hide=Browsing&custom_title=Wakatime%20for%20last%207%20days" width="420" /> <!-- height="148" -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lohhans&api_domain=wakapi.dev&theme=dark&layout=compact&langs_count=8&hide=Browsing&custom_title=Wakatime%20for%20last%207%20days" width="420" /> <!-- height="148" -->
 </a>
 
 
@@ -87,10 +87,10 @@
 <p></p>
 
 
-<!-- Most Used Langs / Spacer / Wakatime (Wakapi) -->
+<!-- Most Used Langs / Spacer / Streak -->
 <!-- [x][ ][ ] -->
 <a href="https://github.com/lohhans/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=lohhans&api_domain=wakapi.dev&layout=compact&hide=Tex,VHDL,Jupyter%20Notebook&theme=dark&custom_title=Most%20Used%20Languages%20%28by%20code%20lines%29" height="170" />
+  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=lohhans&layout=compact&hide=Tex,VHDL,Jupyter%20Notebook&theme=dark&custom_title=Most%20Used%20Languages%20%28by%20code%20lines%29" height="170" />
 </a>
 <!-- [ ][x][ ] -->
 <a href="https://github.com/lohhans/github-readme-stats">
