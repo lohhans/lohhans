@@ -18,10 +18,10 @@
 <sub>ㅤ</sub>
 [![wakatime](https://wakatime.com/badge/user/28b1095a-8445-41d9-8a3e-70e15b895f80.svg)](https://wakatime.com/@28b1095a-8445-41d9-8a3e-70e15b895f80)
 
-### 🧔🏻 I'm a Student and Developer
+### 🧔🏻 I'm majoring in Computer Science and working as a Software Developer
 
 <!-- - 🌱 I’m currently learning **Flutter**, **Node.js** and **Javascript** -->
-- 🔭 I’m currently working on [Enzitech](https://github.com/bcccoworkingufape/enzitech_app)
+- 🔭 I’m currently working on [Enzitech](https://github.com/bcccoworkingufape/enzitech_app) project
 - 🐦 I’m currently studing **Dart** and **Flutter**, and most of my developments are with this language and framework too
 - 💬 Ask me about anything [here][telegram]
 
@@ -79,7 +79,7 @@
 </a>
 <!-- [ ][ ][x] -->
 <a href="http://wakatime.com/lohhans">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lohhans&theme=dark&layout=compact&langs_count=8&hide=Browsing&custom_title=Armstrong Lohãns' Wakatime for last 7 days" width="420" /> <!-- height="148" -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lohhans&theme=dark&layout=compact&langs_count=8&hide=Browsing&custom_title=Wakatime%20for%20last%207%20days" width="420" /> <!-- height="148" -->
 </a>
 
 
@@ -87,10 +87,10 @@
 <p></p>
 
 
-<!-- Most Used Langs / Spacer / Wakatime -->
+<!-- Most Used Langs / Spacer / Wakatime (Wakapi) -->
 <!-- [x][ ][ ] -->
 <a href="https://github.com/lohhans/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=lohhans&layout=compact&hide=Tex,VHDL,Jupyter Notebook&theme=dark&custom_title=Most Used Languages (by code lines)" height="170" />
+  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=lohhans&api_domain=wakapi.dev&layout=compact&hide=Tex,VHDL,Jupyter%20Notebook&theme=dark&custom_title=Most%20Used%20Languages%20%28by%20code%20lines%29" height="170" />
 </a>
 <!-- [ ][x][ ] -->
 <a href="https://github.com/lohhans/github-readme-stats">
