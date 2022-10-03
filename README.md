@@ -116,11 +116,11 @@
 ### 📑 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/bcccoworkingufape/enzitech_app/pull/73) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-2. 💪 Opened PR [#73](https://github.com/bcccoworkingufape/enzitech_app/pull/73) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-3. 🗣 Commented on [#40601](https://github.com/flutter/flutter/issues/40601) in [flutter/flutter](https://github.com/flutter/flutter)
-4. 🎉 Merged PR [#72](https://github.com/bcccoworkingufape/enzitech_app/pull/72) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-5. 💪 Opened PR [#72](https://github.com/bcccoworkingufape/enzitech_app/pull/72) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+1. 🗣 Commented on [#40601](https://github.com/flutter/flutter/issues/40601) in [flutter/flutter](https://github.com/flutter/flutter)
+2. 🎉 Merged PR [#73](https://github.com/bcccoworkingufape/enzitech_app/pull/73) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+3. 💪 Opened PR [#73](https://github.com/bcccoworkingufape/enzitech_app/pull/73) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+4. 🗣 Commented on [#40601](https://github.com/flutter/flutter/issues/40601) in [flutter/flutter](https://github.com/flutter/flutter)
+5. 🎉 Merged PR [#72](https://github.com/bcccoworkingufape/enzitech_app/pull/72) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
 <!--END_SECTION:activity-->
 
 [gmail]: mailto:lohansdemelo1108@gmail.com
