@@ -116,11 +116,11 @@
 ### 📑 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/bcccoworkingufape/enzitech_app/pull/74) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-2. 💪 Opened PR [#74](https://github.com/bcccoworkingufape/enzitech_app/pull/74) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-3. ❗️ Closed issue [#56](https://github.com/bcccoworkingufape/enzitech_app/issues/56) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-4. 🗣 Commented on [#56](https://github.com/bcccoworkingufape/enzitech_app/issues/56) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-5. ❗️ Closed issue [#64](https://github.com/bcccoworkingufape/enzitech_app/issues/64) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+1. 🗣 Commented on [#51](https://github.com/bcccoworkingufape/enzitech_app/issues/51) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+2. ❗️ Closed issue [#51](https://github.com/bcccoworkingufape/enzitech_app/issues/51) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+3. 🎉 Merged PR [#74](https://github.com/bcccoworkingufape/enzitech_app/pull/74) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+4. 💪 Opened PR [#74](https://github.com/bcccoworkingufape/enzitech_app/pull/74) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
+5. ❗️ Closed issue [#56](https://github.com/bcccoworkingufape/enzitech_app/issues/56) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
 <!--END_SECTION:activity-->
 
 [gmail]: mailto:lohansdemelo1108@gmail.com
