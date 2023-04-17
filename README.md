@@ -18,10 +18,12 @@
 <sub>ㅤ</sub>
 [![wakatime](https://wakatime.com/badge/user/28b1095a-8445-41d9-8a3e-70e15b895f80.svg)](https://wakatime.com/@28b1095a-8445-41d9-8a3e-70e15b895f80)
 
-### 🧔🏻 I'm majoring in Computer Science and working as a Software Developer
+### 🧔🏻 About me
 
 <!-- - 🌱 I’m currently learning **Flutter**, **Node.js** and **Javascript** -->
-- 🔭 I’m currently working on [Enzitech](https://github.com/bcccoworkingufape/enzitech_app) project
+- 👨🏻‍💻 Mobile Developer at [CWI](https://cwi.com.br/)
+- 🎓 Bachelor of Computer Science at [UFAPE](http://ufape.edu.br/)
+- 🔭 Worked on [Enzitech](https://github.com/bcccoworkingufape/enzitech_app) project
 - 🐦 I’m currently studing **Dart** and **Flutter**, and most of my developments are with this language and framework too
 - 💬 Ask me about anything [here][telegram]
 
