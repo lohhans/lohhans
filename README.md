@@ -24,7 +24,8 @@
 - 👨🏻‍💻 Mobile Developer at [CWI](https://cwi.com.br/)
 - 🎓 Bachelor of Computer Science at [UFAPE](http://ufape.edu.br/)
 - 🔭 Worked on [Enzitech](https://github.com/bcccoworkingufape/enzitech_app) project
-- 🐦 I’m currently studing **Dart** and **Flutter**, and most of my developments are with this language and framework too
+- 🐦 I’m currently learning **Dart** and **Flutter**, and most of my developments are with this language and framework too
+- 🤓 Interest in **Mobile development** and **Data Science**.
 - 💬 Ask me about anything [here][telegram]
 
 
