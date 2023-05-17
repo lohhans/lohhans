@@ -33,7 +33,7 @@
 
 <!-- Editors -->
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="Android Studio" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.svg" />][studio]
+[<img align="left" alt="Android Studio" width="26px" src="https://developer.android.com/static/studio/images/new-studio-logo-1_2880.png" />][studio]
 
 [<img align="left" alt="Flutter" width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
 [<img align="left" alt="JavaScript" width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][dart]
