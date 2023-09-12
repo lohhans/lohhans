@@ -3,7 +3,7 @@
   <img align="left" alt="Armstrong Lohãns | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 <a href="https://www.linkedin.com/in/lohhans/">
-  <img align="left" alt="Armstrong Lohãns | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Armstrong Lohãns | LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <a href="https://www.instagram.com/lohhans">
   <img align="left" alt="Armstrong Lohãns | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
@@ -109,8 +109,8 @@
 <!-- Vertical Spacer -->
 <p></p>
 
-<!-- Contributions -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://activity-graph.herokuapp.com/graph?username=lohhans&bg_color=151515&color=D6D4D4&point=D6D4D4&area=true&area_color=4D995E&line=4D995E" width="820" alt="lohhans" /></a> </p>
+<!-- Contributions 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://activity-graph.herokuapp.com/graph?username=lohhans&bg_color=151515&color=D6D4D4&point=D6D4D4&area=true&area_color=4D995E&line=4D995E" width="820" alt="lohhans" /></a> </p> -->
 
 <!-- Trophies -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lohhans&theme=juicyfresh&row=1&no-bg=true&margin-w=10" width="830" alt="lohhans" /></a> </p>
